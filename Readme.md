@@ -7,5 +7,5 @@ https://rapidapi.com/collection/list-of-free-apis
 
 ## Javascript Tutorial
 https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax
-https://www.youtube.com/watch?v=PkZNo7MFNFg
+https://www.youtube.com/watch?v=PkZNo7MFNFg   
 https://www.w3schools.com/js/
