@@ -6,6 +6,10 @@ Let's try to connect to API using Dialogflow.
 https://www.getpostman.com/ 
 
 
+Example of calling external API to get stock price:  
+https://medium.com/swlh/how-to-build-a-chatbot-with-dialog-flow-chapter-4-external-api-for-fulfilment-3ab934fd7a00 
+
+
 ## 09-21-2019 Slot filling lab:
 https://blog.dialogflow.com/post/use-slot-filling-in-fulfillment/
 
