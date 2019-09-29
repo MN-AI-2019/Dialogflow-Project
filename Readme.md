@@ -1,3 +1,8 @@
+## 09/28/2019 Home work: 
+Use context in chatbot - please use input and output context  
+Enhance your chatbot did in 9-2 class (https://blog.dialogflow.com/post/use-slot-filling-in-fulfillment/) to Wikipedia Opensearch API
+
+
 ## Webhook for Dialogflow
 
 https://cloud.google.com/dialogflow/docs/fulfillment-how#webhook_request
