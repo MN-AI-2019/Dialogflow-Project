@@ -1,3 +1,8 @@
+## 10/26/2019 Home work: 
+For group include James, Edward, Gavin, Kevin, Victor, please finish the slotfilling lab below if you haven't. 
+Please create account on codesandbox.io using your github account, and download postman tool. 
+
+
 ## Nodejs by teacher Chen
 https://github.com/MN-AI-2019/Dialogflow-Project/tree/master/nodejs
 
