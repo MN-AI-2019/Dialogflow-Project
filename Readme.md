@@ -2,6 +2,11 @@
 For group include James, Edward, Gavin, Kevin, Victor, please finish the slotfilling lab below if you haven't. 
 Please create account on codesandbox.io using your github account, and download postman tool. 
 
+For ALL:
+Under github page hello-express folder, please copy states.js to your codesandbox project, and using postman to test API. There are two un-finished method, please finish them. 
+
+For Zhoujinyi, Daniel, Ben, Nathan - Please make progress of your restaurant ordering app project and we may need you to demo your project next week. 
+
 
 ## Nodejs by teacher Chen
 https://github.com/MN-AI-2019/Dialogflow-Project/tree/master/nodejs
