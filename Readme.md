@@ -1,3 +1,20 @@
+## 11/02/2019 homework: 
+
+ALL:
+Go through states.js under hello-express folder, understand each line of code. try following 
+http://urlfromcodesanbox.io(replace by your own URL)/states, using GET, POST method.
+
+For Zhoujinyi, Daniel, Ben 
+Please prepare your project demo next week.
+
+For Nathan
+Please catch up with REST API content on our github page. 
+
+For Mathan 
+Please work with Gavin to catch up Dialogflow content
+
+
+
 ## 11/02/2019: 
 We will review last week's homework befor get into new content. 
 For ALL:
