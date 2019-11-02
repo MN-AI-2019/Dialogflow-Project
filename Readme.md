@@ -1,3 +1,12 @@
+## 11/02/2019: 
+We will review last week's homework befor get into new content. 
+For ALL:
+Under github page hello-express folder, please copy states.js to your codesandbox project, and using postman to test API. There are two un-finished method, please finish them. 
+
+For Zhoujinyi, Daniel, Ben - Project demo, Nathan taking a day off. 
+
+
+
 ## 10/26/2019 Home work: 
 For group include James, Edward, Gavin, Kevin, Victor, please finish the slotfilling lab below if you haven't. 
 Please create account on codesandbox.io using your github account, and download postman tool. 
