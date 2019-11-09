@@ -1,3 +1,10 @@
+## 11/9/2019
+HTTP status code
+https://www.restapitutorial.com/httpstatuscodes.html
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+
+
 ## 11/02/2019 homework: 
 
 ALL:
