@@ -1,10 +1,10 @@
 ## 11/9/2019
 HTTP status code  
-https://www.restapitutorial.com/httpstatuscodes.html
+https://www.restapitutorial.com/httpstatuscodes.html   
 https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 
 Idempotent  
-https://www.restapitutorial.com/lessons/idempotency.html 
+https://www.restapitutorial.com/lessons/idempotency.html   
 https://en.wikipedia.org/wiki/Idempotence
 
 
