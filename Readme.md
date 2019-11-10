@@ -1,3 +1,15 @@
+## 11/09/2019 homework: 
+
+For all: 
+If you did not finish PUT and DELETE method of https://github.com/MN-AI-2019/Dialogflow-Project/blob/master/hello-express/states.js in codesanbox.io, please make sure write your own code and test it. 
+
+Prepare your own chatbot project to demo to parents on 11/16. Here is my requirement: 
+1. Create a chatbot to answer your own question, minimum 4 different questions. 
+2. Use parameters / context 
+3. Use phone gateway to do demo next week. 
+
+
+
 ## 11/9/2019
 HTTP status code  
 https://www.restapitutorial.com/httpstatuscodes.html   
