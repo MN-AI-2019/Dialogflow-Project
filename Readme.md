@@ -8,6 +8,11 @@ Prepare your own chatbot project to demo to parents on 11/16. Here is my require
 2. Use parameters / context 
 3. Use phone gateway to do demo next week. 
 
+Reference videos:   
+https://youtu.be/9aHusGxntPw  
+https://youtu.be/kzdL6GxJ_WY  
+https://youtu.be/-tOamKtmxdY
+
 
 
 ## 11/9/2019
