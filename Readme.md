@@ -1,5 +1,11 @@
 ## 11/09/2019 homework: 
 
+Some students asked questions on how to finish DELETE and PUT method, here is the hint: 
+When you use DELETE and PUT method, you will need to deal with one specific resource, in another word, your URL will be something like
+https://yourwebapi.io/states/MN
+Inside the code, you will need to find the state by using code, in this example (MN), after that you need to remove this particular record (DELETE) or update record (PUT). 
+
+
 For all: 
 If you did not finish PUT and DELETE method of https://github.com/MN-AI-2019/Dialogflow-Project/blob/master/hello-express/states.js in codesanbox.io, please make sure write your own code and test it. 
 
