@@ -1,3 +1,8 @@
+## 11/16/2019 class
+* Chatbot project presentation
+* We will start new Qwicklab https://google-run.qwiklabs.com/quests/61
+
+
 ## 11/09/2019 homework: 
 
 Some students asked questions on how to finish DELETE and PUT method, here is the hint: 
