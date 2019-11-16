@@ -1,3 +1,7 @@
+## 11/16/2019 Homework:
+* Watch Javascript video tutorial at the bottom of this page
+* Finish this lab at home https://google-run.qwiklabs.com/focuses/2196?parent=catalog
+
 ## 11/16/2019 class
 * Chatbot project presentation
 * We will start new Qwicklab https://google-run.qwiklabs.com/quests/61
